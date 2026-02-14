@@ -1,5 +1,4 @@
 # Linear-Algebra-Applications-in-Computer-Graphics-and-Multimedia-Systems
-# MATH-201-Linear-Algebra-Project
 
 This project presents a comprehensive study of Linear Algebra applications in Computer Graphics and Multimedia Systems, demonstrating how fundamental mathematical concepts enable sophisticated digital media processing operations.
 
