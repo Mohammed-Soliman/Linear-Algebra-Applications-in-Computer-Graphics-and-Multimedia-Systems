@@ -1,0 +1,11 @@
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/CMakeFiles/Cherno.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/vendor/glfw/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/vendor/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/vendor/glfw/src/CMakeFiles/glfw.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/vendor/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/vendor/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/vendor/glfw/src/CMakeFiles/rebuild_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/Cherno/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/MATH 201 - Final Project/Project Simulation Codes/Computer Graphics/out/build/x64-Debug/Cherno/CMakeFiles/rebuild_cache.dir

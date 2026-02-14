@@ -1,0 +1,26 @@
+# ninja log v6
+159	1095	7889778468562889	vendor/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	2fd2f344ce382382
+30	1182	7889778467256920	vendor/glfw/src/CMakeFiles/glfw.dir/init.c.obj	b78d97dd4ae0b48b
+204	1204	7889778468988644	vendor/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	b1186a43f0f9caf0
+193	1223	7889778468863323	vendor/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	794673f3165445ca
+147	1241	7889778468435775	vendor/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	3e957f0c0babf591
+112	1258	7889778468080986	vendor/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	de081c718d935007
+65	1265	7889778467608902	vendor/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	18d50ae39015ca15
+88	1272	7889778467841977	vendor/glfw/src/CMakeFiles/glfw.dir/window.c.obj	d169b40c6dcc5b3c
+170	1277	7889778468671714	vendor/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	ec13682c7f115170
+135	1282	7889778468321637	vendor/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	b58e8cb10447c687
+124	1287	7889778468200549	vendor/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	c4b52d3d84f81c7
+215	1292	7889778469025293	vendor/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	86916a6d507adb03
+54	1299	7889778467482236	vendor/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	c4dde52837d8f136
+76	1306	7889778467720639	vendor/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	33e35548c45db15
+101	1312	7889778467980303	vendor/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	ea0d151178b8a650
+42	1318	7889778467298119	vendor/glfw/src/CMakeFiles/glfw.dir/input.c.obj	2c6020c210021d9f
+182	1322	7889778468780095	vendor/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	831a801b13afd759
+18	1327	7889778467085553	vendor/glfw/src/CMakeFiles/glfw.dir/context.c.obj	4165414ca4014386
+1241	1451	7889778479383695	CMakeFiles/Cherno.dir/vendor/glad/src/gl.c.obj	320eb25992ed0e95
+1205	1724	7889778479004702	vendor/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	dcc03087891819ef
+1182	1734	7889778478786179	vendor/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	cc39b4a83fdba7f9
+1130	1787	7889778478287424	vendor/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	5910e25e9a58f8fa
+1787	2122	7889778484836610	vendor/glfw/src/glfw3.lib	9700582584064135
+1224	3600	7889778479205463	CMakeFiles/Cherno.dir/main.cpp.obj	e0bf6bc9ccd1999f
+3603	4566	7889778502978193	Cherno.exe	46490135dde01f00
